@@ -2,6 +2,18 @@
 <h3 align="center">A passionate frontend developer from Japan</h3>
 <h3 align="center">I will continue to study hard.</h3>
 
+I started learning programming in August.<br>
+However, the contributions are not reflected correctly.<br>
+When I investigated the cause, I found that it was due to poor coordination with Github.<br>
+We made an improvement in October, so it has been reflected correctly since then.<br>
+Please check it.<br>
+
+私は8月からプログラミングの学習を始めました。<br>
+ですがコントリビューションが正しく反映されていません。<br>
+原因を調べたところ、Githubとの連携がうまくできていないためでした。<br>
+10月に改善をしたためそれ以降は正しく反映されています。<br>
+ご確認よろしくお願いします。<br>
+
 - 🔭 I’m currently working on [Amulab](https://github.com/myf2ar10/amulab)
 
 - 👯 I’m looking to collaborate on [nagano-cake](https://github.com/webcamp-teamD-sky/nagano-cake)
