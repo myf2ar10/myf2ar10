@@ -14,6 +14,25 @@ Please check it.<br>
 10月に改善をしたためそれ以降は正しく反映されています。<br>
 ご確認よろしくお願いします。<br>
 
+💐💐💐💐💐💐💐💐💐💐<br>
+《謝辞》<br>
+プログラミングの学習は<br>
+スクールを受講しつつ、MENTAで自分専用のメンターと契約をし<br>
+週に1度ペアプログラミング形式のメンタリングを受けておりました。<br>
+契約をしたことにより自分のスキルに合わせた学習を進められ、挫折することを防げました。<br>
+Ken5様（ https://menta.work/user/46461 ）には大変お世話になりました。<br>
+ここに感謝の意を表します。<br>
+💐💐💐💐💐💐💐💐💐💐
+
+MENTA_ken5様_READMEレビュー（2023/12/31時点）<br>
+https://pinnate-outrigger-ff7.notion.site/MENTA_ken5-_README-2023-12-31-6eafacadc4b8499ca20eb63ac0b5c650?pvs=4<br>
+MENTA_ken5様_ソースコードレビュー（2023/12/31時点）<br>
+https://pinnate-outrigger-ff7.notion.site/MENTA_ken5-_-2023-12-31-c624ea8a0a024caea97428c544632aab?pvs=4<br>
+レビューを受けてのタスク（2024/1/11時点）<br>
+https://pinnate-outrigger-ff7.notion.site/2024-1-11-2b27582528ef4cb1942dfab1fe2e87da?pvs=4<br>
+
+- 🙇‍♀️ Thanks [MENTA_ken5](https://menta.work/user/46461)
+
 - 🔭 I’m currently working on [Amulab](https://github.com/myf2ar10/amulab)
 
 - 👯 I’m looking to collaborate on [nagano-cake](https://github.com/webcamp-teamD-sky/nagano-cake)
