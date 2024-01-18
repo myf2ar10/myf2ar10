@@ -31,12 +31,8 @@ https://pinnate-outrigger-ff7.notion.site/MENTA_ken5-_-2023-12-31-c624ea8a0a024c
 レビューを受けてのタスク（2024/1/11時点）<br>
 https://pinnate-outrigger-ff7.notion.site/2024-1-11-2b27582528ef4cb1942dfab1fe2e87da?pvs=4<br>
 
-AWS請求_11月<br>
-https://docs.google.com/spreadsheets/d/1Y82OtDQB9c_2_nJoK8QEzVQvoVq2xcTCZkPsbTXV7vo/edit#gid=0
-AWS請求_12月<br>
-https://docs.google.com/spreadsheets/d/1Y82OtDQB9c_2_nJoK8QEzVQvoVq2xcTCZkPsbTXV7vo/edit#gid=1774949350
-AWS請求_1月<br>
-https://docs.google.com/spreadsheets/d/1Y82OtDQB9c_2_nJoK8QEzVQvoVq2xcTCZkPsbTXV7vo/edit#gid=435281929
+AWS請求額管理シート<br>
+https://docs.google.com/spreadsheets/d/1Y82OtDQB9c_2_nJoK8QEzVQvoVq2xcTCZkPsbTXV7vo/edit#gid=0<br>
 
 - 🙇‍♀️ Thanks [MENTA_ken5](https://menta.work/user/46461)
 
